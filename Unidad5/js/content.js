@@ -148,7 +148,7 @@ window.OVA_CONTENT = {
       "featuredImageAlt": "Técnico y médica revisando una planta de tratamiento de agua",
       "modalImage": "assets/modal1.jpg",
       "modalImageAlt": "Conectividad digital en pasillo hospitalario",
-      "youtubeUrl": "https://www.youtube.com/watch?v=kDiIMEsY_Jo"
+      "youtubeUrl": "https://www.youtube.com/watch?v=nCqY9jUfe0k"
     },
     {
       "id": "03",

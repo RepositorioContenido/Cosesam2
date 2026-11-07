@@ -145,7 +145,7 @@ window.OVA_CONTENT = {
       "featuredImageAlt": "Médico y enfermera revisando información en una tableta en un pasillo",
       "modalImage": "assets/modal1.jpg",
       "modalImageAlt": "Médico y enfermera revisando información digital con un paciente",
-      "youtubeUrl": "https://www.youtube.com/watch?v=cvO24AwGLZk"
+      "youtubeUrl": "https://www.youtube.com/watch?v=G5jk_rxl8xM"
     },
     {
       "id": "03",

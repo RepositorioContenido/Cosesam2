@@ -144,7 +144,7 @@ window.OVA_CONTENT = {
       "featuredImageAlt": "Directivo y médica revisando en pantalla los nodos de la red de salud",
       "modalImage": "assets/modal1.jpg",
       "modalImageAlt": "Exploración cerebral en realidad virtual",
-      "youtubeUrl": "https://www.youtube.com/watch?v=cvO24AwGLZk"
+      "youtubeUrl": "https://www.youtube.com/watch?v=KBQwXTt3uKM"
     },
     {
       "id": "03",

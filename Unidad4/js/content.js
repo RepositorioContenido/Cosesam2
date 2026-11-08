@@ -144,7 +144,7 @@ window.OVA_CONTENT = {
       "featuredImageAlt": "Enfermera y médico revisando un mapa de la red en una pantalla",
       "modalImage": "assets/modal1.jpg",
       "modalImageAlt": "Médica frente a un panel digital del cuerpo humano",
-      "youtubeUrl": "https://www.youtube.com/watch?v=cvO24AwGLZk"
+      "youtubeUrl": "https://www.youtube.com/watch?v=9_uwkiv3Xbc"
     },
     {
       "id": "03",

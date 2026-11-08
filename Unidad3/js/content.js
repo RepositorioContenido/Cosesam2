@@ -145,7 +145,7 @@ window.OVA_CONTENT = {
       "featuredImageAlt": "Adulto mayor en teleconsulta acompañado por una enfermera",
       "modalImage": "assets/modal1.jpg",
       "modalImageAlt": "Mujer consultando su información de salud en el celular desde casa",
-      "youtubeUrl": "https://www.youtube.com/watch?v=cvO24AwGLZk"
+      "youtubeUrl": "https://www.youtube.com/watch?v=zMrQCal4rko"
     },
     {
       "id": "03",
